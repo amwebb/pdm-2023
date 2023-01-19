@@ -12,7 +12,7 @@ function draw() {
 
   push();
   noStroke();
-  fill(120,100,100,0.5);
+  fill(125,100,100,0.5);
   ellipse(200,100,30,30);
   ellipse(400,105,30,30);
 
